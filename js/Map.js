@@ -7,7 +7,7 @@ var bestRide;
 let map;
 let directionsService;
 let directionsRenderers = [];
-const apiKey = 'AIzaSyA9LzJ9BfyNbaj62km-HXxICNOGAbl1_Hc';
+const apiKey = 'insertAPIKeyHere';
 
 var rideNo = 0;
 
