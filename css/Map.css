@@ -1,0 +1,15 @@
+#gmp-map {
+  margin-left: 350px;
+  margin-right: 450px;
+  margin-bottom: 100px;
+  height: 800px;
+  width: 800px;
+}
+
+/* Optional: Makes the sample page fill the window. */
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
